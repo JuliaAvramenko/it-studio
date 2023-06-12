@@ -1,0 +1,12 @@
+.screen__sticky {
+    display: flex;
+    max-width: 1920px;
+    height: 100px;
+    border-bottom: 1px solid rgba(161, 161, 161, .5);
+    justify-content: flex-end;
+    margin-bottom: 220px;
+
+
+
+
+}

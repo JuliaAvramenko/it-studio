@@ -1,6 +1,6 @@
 .screen__tab-wrapper {
 
     display: flex;
-    margin-left: 960px;
+    margin-right: 100px;
     flex-direction: column;
 }

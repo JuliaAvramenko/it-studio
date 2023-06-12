@@ -12,21 +12,23 @@
 <body class="container">
     <div class="pages">
         <header class="screen">
-            <div class="screen__tab-wrapper">
+            <div class="screen__sticky">
+                <div class="screen__tab-wrapper">
 
-                <ul class="screen__container">
+                    <ul class="screen__container">
 
-                    <li class="screen__item">Главная</li>
-                    <li class="screen__item">Наши проекты</li>
-                    <li class="screen__item">Услуги</li>
-                    <li class="screen__item">Новости</li>
-                    <li class="screen__item">Контакты</li>
-                </ul>
-                <div class="screen__lines">
-                    <div class="screen__small-line"></div>
+                        <li class="screen__item"><a class="screen__link" href="#services">Главная</a></li>
+                        <li class="screen__item"><a class="screen__link" href="#projects">Наши проекты</a></li>
+                        <li class="screen__item"><a class="screen__link" href="#works">Услуги</a></li>
+                        <li class="screen__item"><a class="screen__link" href="#video">Новости</a></li>
+                        <li class="screen__item"><a class="screen__link" href="#footer">Контакты</a></li>
+                    </ul>
+                    <div class="screen__lines">
+                        <div class="screen__small-line"></div>
+                    </div>
                 </div>
             </div>
-            <hr class="screen__line">
+
 
             <div class="screen__wrapper">
 
@@ -37,7 +39,7 @@
         </header>
 
         <main class="main">
-            <section class="services">
+            <section id="services" class="services">
                 <div class="services__container">
                     <h2 class="services__header">Мы создаем мобильные приложения для крупных корпораций</h2>
                     <p class="services__text">Lorem Ipsum - это текст-"рыба", часто используемый в печати и вэб-дизайне.
@@ -148,7 +150,7 @@
                 </div>
             </section>
 
-            <section class="works">
+            <section id="works" class="works">
                 <div class="works__container">
                     <div class="works__wrapper">
                         <h2 class="works__header">Наши работы, на которых мы специализируемся</h2>
@@ -203,7 +205,7 @@
 
 
             </section>
-            <section class="projects">
+            <section id="projects" class="projects">
                 <div class="projects__container">
                     <h2 class="projects__header">Наши проекты</h2>
                     <p class="projects__text">Lorem Ipsum - это текст-"рыба", часто используемый в печати и вэб-дизайне.
@@ -226,7 +228,7 @@
                 </div>
 
             </section>
-            <section class="video">
+            <section id="video" class="video">
                 <div class="video__container">
 
                     <h2 class="video__header">Видео о нашей работе</h2>
@@ -252,7 +254,7 @@
                 </div>
             </section>
         </main>
-        <footer class="footer">
+        <footer id="footer" class="footer">
             <div class="footer__container">
 
 

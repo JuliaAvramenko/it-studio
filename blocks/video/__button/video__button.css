@@ -5,7 +5,7 @@
     height: 100px;
     background-color: transparent;
 
-    border-color: none;
-    border-color: #fff;
+
     border-radius: 50px;
+    border: 1px solid #fff;
 }

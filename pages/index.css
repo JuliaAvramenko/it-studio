@@ -1,14 +1,14 @@
 @import url(../blocks/container/container.css);
 @import url(../blocks/pages/pages.css);
 @import url(../blocks/screen/screen.css);
-@import url(../blocks/screen/__button/screen__button.css);
+
 @import url(../blocks/screen/__container/screen__container.css);
 @import url(../blocks/screen/__header/screen__header.css);
 @import url(../blocks/screen/__item/screen__item.css);
 @import url(../blocks/screen/__text/screen__text.css);
 @import url(../blocks/screen/__wrapper/screen__wrapper.css);
 @import url(../blocks/screen/__empty/screen__empty.css);
-@import url(../blocks/screen/__line/screen__line.css);
+
 
 @import url(../blocks/services/__button/services__button.css);
 @import url(../blocks/services/__card/services__card.css);
@@ -107,25 +107,6 @@
 @import url(../blocks/screen/__small-line/screen__small-line.css);
 
 @import url(../blocks/works/__line-wrapper/works__line-wrapper.css);
-@import url(../blocks);
-@import url(../blocks);
-@import url(../blocks);
-@import url(../blocks);
-@import url(../blocks);
-@import url(../blocks);
-@import url(../blocks);
-@import url(../blocks);
-@import url(../blocks);
-@import url(../blocks);
-@import url(../blocks);
-@import url(../blocks);
-@import url(../blocks);
-@import url(../blocks);
-@import url(../blocks);
-@import url(../blocks);
-@import url(../blocks);
-@import url(../blocks);
-@import url(../blocks);
-@import url(../blocks);
-@import url(../blocks);
-@import url(../blocks);
+
+@import url(../blocks/screen/__sticky/screen__sticky.css);
+@import url(../blocks/screen/__link/screen__link.css);
