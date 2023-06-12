@@ -1,0 +1,15 @@
+.screen__container {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    width: 585px;
+    height: 59px;
+
+    margin-bottom: 39px;
+
+
+
+
+
+}

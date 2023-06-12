@@ -1,0 +1,8 @@
+.works__cards {
+    display: flex;
+
+    justify-content: center;
+    column-gap: 30px;
+
+    margin-bottom: 85px;
+}

@@ -1,0 +1,10 @@
+.works__wrapper {
+    width: 1110px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin-bottom: 70px;
+
+
+}

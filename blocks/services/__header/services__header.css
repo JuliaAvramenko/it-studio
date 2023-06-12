@@ -1,0 +1,13 @@
+.services__header {
+    margin: 0;
+    padding: 0;
+    width: 739px;
+    height: 88px;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 53px;
+    text-align: center;
+
+    color: #323232;
+    margin-bottom: 50px;
+}

@@ -1,0 +1,14 @@
+.about__line {
+    width: 1133px;
+    height: 0px;
+
+
+    border: 1px solid #E0E0E0;
+    display: flex;
+
+    justify-content: center;
+
+    margin-bottom: 70px;
+
+
+}

@@ -1,0 +1,7 @@
+.services__card {
+    width: 353px;
+    height: 139px;
+    display: flex;
+    column-gap: 17px;
+
+}

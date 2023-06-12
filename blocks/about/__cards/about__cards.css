@@ -1,0 +1,4 @@
+.about__cards {
+    display: flex;
+    column-gap: 100px;
+}

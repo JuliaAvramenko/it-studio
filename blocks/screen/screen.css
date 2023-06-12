@@ -1,0 +1,8 @@
+.screen {
+    background-image: url(/images/first-screen.png);
+    height: 900px;
+    display: flex;
+    flex-direction: column;
+
+    color: #fff
+}

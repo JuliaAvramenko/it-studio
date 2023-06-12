@@ -1,0 +1,8 @@
+.about__container {
+    display: flex;
+    justify-content: center;
+    column-gap: 121px;
+
+    margin-bottom: 90px;
+
+}

@@ -1,0 +1,12 @@
+.works__card-header {
+    margin: 0;
+    padding: 0;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #000000;
+
+    margin-top: 30px;
+    margin-bottom: 30px;
+}

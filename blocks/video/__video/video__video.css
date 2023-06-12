@@ -1,0 +1,13 @@
+.video__video {
+    width: 970px;
+    height: 430px;
+    background-image: url(../../../images/Video.png);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin-bottom: 85px;
+
+
+
+}

@@ -1,0 +1,11 @@
+.about__header {
+    margin: 0;
+    padding: 0;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 53px;
+
+    color: #323232;
+    margin-top: 47px;
+    margin-bottom: 45px;
+}
